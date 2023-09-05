@@ -74,6 +74,14 @@ HTTP status codes
 500 Server Error
     | When the Authorization Registry was unable to process the request
 
+**Example:**
+
+.. code-block:: json
+
+    {
+      "message": "string",
+      "code": 401
+    }
 
 Policy Request Token
 --------------------
